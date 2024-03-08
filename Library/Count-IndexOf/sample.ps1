@@ -1,0 +1,1 @@
+﻿Count-IndexOf -InputString 'X-X--X---X' -SearchString 'X'
