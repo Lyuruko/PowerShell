@@ -1,0 +1,1 @@
+﻿ConvertTo-Unicode -Text 'XXXX'
