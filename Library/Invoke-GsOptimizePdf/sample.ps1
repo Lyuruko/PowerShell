@@ -1,0 +1,1 @@
+﻿Invoke-GsOptimizePdf -SourcePdf C:\temp\sample.pdf -OutputPdf C:\temp\sample-result.pdf -Type PressReader

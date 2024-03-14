@@ -1,0 +1,1 @@
+﻿Invoke-EpPurgeApi -Type Page -Pub XX -Page X01 -Date '2000-01-01' -Url 'XXXXX' -MaxRetry 3 -WaitSeconds 10
